@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nik Savchenko
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently working at monday.com
+- 📫 How to reach me niksa@monday.com
